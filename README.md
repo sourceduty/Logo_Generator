@@ -20,7 +20,7 @@ These tools exemplify the trend towards automation in design, making professiona
 
 To create a logo design generator, you'd need a software system that can interpret user input and design preferences, generate logo designs based on predefined criteria and patterns, and allow for customization and refinement. Below is a detailed plan and structure for such a system, written in a pseudo-code format.
 
-# Logo Design Generator System
+### Logo Design Generator System
 
 ### Modules Description
 
